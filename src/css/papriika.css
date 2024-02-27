@@ -1,0 +1,45 @@
+/*   
+Papriika
+*/
+
+/* #8c7a4f   GOLD   -------- */
+::selection{background:rgba(140,122,79,0.99);color:#fff;}
+::-moz-selection{background:rgba(140,122,79,0.99);color:#fff;}
+/* #000000   BLACK    -------- */
+/* ::selection{background:rgba(0,0,0,0.99);color:#fff;}*/
+/* ::-moz-selection{background:rgba(0,0,0,0.99);color:#fff;}*/
+/* #7b8ea5   SILVER BLUE   -------- */
+/* ::selection{background:rgba(123,142,165,0.99);color:#fff;}*/
+/* ::-moz-selection{background:rgba(123,142,165,0.99);color:#fff;}*/
+/* #314552   RICH BLUE    -------- */
+/* ::selection{background:rgba(49,69,82,0.99);color:#fff;}*/
+/* ::-moz-selection{background:rgba(49,69,82,0.99);color:#fff;}*/
+/* #bfc1c2   SILVER   -------- */
+/* ::selection{background:rgba(191,193,194,0.99);color:#fff;}*/
+/* ::-moz-selection{background:rgba(192,192,192,0.99);color:#fff;}*/
+/* #2a8a15   GREEN    -------- */
+/* ::selection{background:rgba(42,138,21,0.99);color:#fff;}*/
+/* ::-moz-selection{background:rgba(42,138,21,0.99);color:#fff;}*/
+/* #8c7158   BRONZE    -------- */
+/* ::selection{background:rgba(140,113,88,0.99);color:#fff;}*/
+/* ::-moz-selection{background:rgba(140,113,88,0.99);color:#fff;}*/
+
+.App {
+  height: 100vh;
+}
+
+html, body {
+  background-color: transparent;
+  color: #fff;
+}
+
+html {
+  -webkit-size-adjust: 100%;
+  background: url(../img/bkg-sign-in.jpg) no-repeat center center fixed;
+  background-size: cover;
+  -webkit-text-size-adjust: none;
+}
+
+.navbar-brand img {
+  width: 110px;
+}
